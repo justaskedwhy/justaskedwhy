@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justaskedwhy
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning python,but not that good
+- 👀 I’m interested in something 
+- 🌱 I’m currently learning c++ and rust,but not that good
 - 📫 How to reach me Discord-gokul#7425 (that's all i have)
 
 <!---
